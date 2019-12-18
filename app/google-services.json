@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444844890445",
+    "firebase_url": "https://coolchat-94ad4.firebaseio.com",
+    "project_id": "coolchat-94ad4",
+    "storage_bucket": "coolchat-94ad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444844890445:android:a25e89254fdb611a3fff04",
+        "android_client_info": {
+          "package_name": "com.example.coolchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444844890445-rhag30dsp7fu6vonpahomjmgmrv9a3ni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coolchat",
+            "certificate_hash": "55e50d878b839086b2f5aceaa46f5287be24611c"
+          }
+        },
+        {
+          "client_id": "444844890445-9uitvfldb94smuhohlje6t2f1drjhftj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOR5wYMRwHOOmtyhQ8ryr7iFNayVsmMt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444844890445-9uitvfldb94smuhohlje6t2f1drjhftj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
